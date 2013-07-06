@@ -14,6 +14,12 @@ You will receive following information with this tool:
 - Available Compressed Texture Formats
 - Available Extensions
 
+## Libraries
+
+This tool uses two libraries: GLUT and to get the full power of OpenGL the GLEW Library.
+
+GLEW: http://glew.sourceforge.net
+
 ## LICENSE
 
 Simple OpenGL Capabilities Detector is released under the [MIT license](http://opensource.org/licenses/MIT).

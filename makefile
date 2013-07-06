@@ -38,7 +38,12 @@ DEBUG_SETTINGS =  -g -D_DEBUG
 COMMON_SETTINGS = $(DEBUG_SETTINGS) -Weffc++ -Wall -pedantic-errors -ansi -std=c++98 -I Source/
 
 .PHONY: build
-build: build-executable
+build: check-directories build-executable
+	
+.PHONY: check-directories
+check-directories:
+	@if [ ! -e Build ]; then mkdir Build; fi
+		
 	
 .PHONY: build-executable
 build-executable: $(LIST_OBJECTS) 
