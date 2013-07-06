@@ -25,7 +25,7 @@
 #  *	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 #  *	THE SOFTWARE.
 #  *
-#  * @author	Andy Liebke<coding@andysmiles5games.com>
+#  * @author	Andy Liebke<coding@andysmiles4games.com>
 #  * @version 	1.0.0 01-Jul-13
 #  * @version	1.1.0 06-Jul-13
 #  * @copyright	Copyright (c) 2013 by Andy Liebke. All rights reserved. (http://www.andysmiles4games.com)
