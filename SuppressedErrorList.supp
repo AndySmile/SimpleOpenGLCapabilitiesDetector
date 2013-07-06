@@ -1,0 +1,10 @@
+{
+	suppress GLUT errors
+	Memcheck:Cond
+	fun:gleUpdateViewScissorDataIndexed
+}
+{
+	suppress another OpenGL error
+	Memcheck:Cond
+	fun:gliUpdateDispatchState
+}
