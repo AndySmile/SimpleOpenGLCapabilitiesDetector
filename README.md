@@ -16,7 +16,7 @@ You will receive following information with this tool:
 
 ## Libraries
 
-This tool uses two libraries: GLUT and to get the full power of OpenGL the GLEW Library.
+This tool uses two libraries: GLUT and to get the full power of OpenGL on Windows machines the GLEW Library.
 
 GLEW: http://glew.sourceforge.net
 
