@@ -1,3 +1,7 @@
 *.o
 *.log
 *.dSYM
+Thumbs.db
+.Trashes
+.Spotlight-V100
+.DS_Store
